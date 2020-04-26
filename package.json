@@ -1,6 +1,6 @@
 {
   "name": "metron-mysql",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A simple package to simpify mysql pool setups in nodejs",
   "main": "index.js",
   "scripts": {
