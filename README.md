@@ -1,6 +1,6 @@
 # Metron
 
-A simple package to simpify mysql pool setups in nodejs
+A simple package to manage mysql pool setups in nodejs
 
 ## Installation
 ```
