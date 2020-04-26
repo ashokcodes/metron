@@ -2,14 +2,21 @@
 
 A simple package to simpify mysql pool setups in nodejs
 
+## Installation
+```
+npm i metron-mysql --save
+```
+
 ## Example
 
 ### Initializing Metron
 ```
+const metron = require('metron-mysql')
+
 const host = 'localhost'
 const user = 'username'
 const pass = 'password'
-const connetionLimit = 20
+const connectionLimit = 20
 const database = 'test_db'
 
 
